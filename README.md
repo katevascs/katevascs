@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Chris
-- 👀 I’m interested in theoretical computer science
+- Interested in theoretical computer science
 - I got my BSc in Computer Science at University of Piraeus (Thesis task: AI accelerator hardware and Coral TPUs)
 - On process MSc in University of Crete
 
